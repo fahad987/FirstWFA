@@ -1,0 +1,9 @@
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\bin\Debug\First WFA.exe.config
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\bin\Debug\First WFA.exe
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\bin\Debug\First WFA.pdb
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\obj\Debug\First WFA.csprojResolveAssemblyReference.cache
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\obj\Debug\First_WFA.Form1.resources
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\obj\Debug\First_WFA.Properties.Resources.resources
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\obj\Debug\First WFA.csproj.GenerateResource.Cache
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\obj\Debug\First WFA.exe
+C:\Users\General-2\Desktop\Fahad\My Projects\First WFA\First WFA\obj\Debug\First WFA.pdb
